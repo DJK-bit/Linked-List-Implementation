@@ -3,7 +3,7 @@
  */
 public class MyLinkedList {
     /**
-     * The method add: adds a new node with value x at the end of the linked list.
+     * The method add: adds a new node at the end of the linked list.
      *
      * Time complexity: O(n)
      * Space complexity: O(1)
